@@ -1,4 +1,4 @@
-##Electric Power Consumption 
+## Electric Power Consumption 
 
 This is the Course Project 1 of Exploratory Data Analysis Course. This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
@@ -15,7 +15,7 @@ Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It co
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
 
-##Loading the data
+## Loading the data
 
 Then loading the dataset into R, please consider the following:
 
@@ -25,7 +25,7 @@ You may find it useful to convert the Date and Time variables to Date/Time class
 Note that in this dataset missing values are coded as ?.
 
 
-##Making the plots
+## Making the plots
 
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
@@ -38,15 +38,4 @@ Name each of the plot files as plot1.png, plot2.png, etc.
 Create a separate R code file (plot1.R, plot2.R, etc.) that constructs the corresponding plot, i.e. code in plot1.R constructs the plot1.png plot. Your code file should include code for reading the data so that the plot can be fully reproduced. You must also include the code that creates the PNG file.
 Add the PNG file and R code file to the top-level folder of your git repository (no need for separate sub-folders)
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
-
-The four plots that you will need to construct are shown below.
-
-
-##Plots
-
-Plot 1: Histogram: Frequency of global active power in killowats
-Plot 2: Plot global activer power by week day (plot legend in portuguese: qui (quinta-feira)=thursday, sex (sexta-feira)=friday, sábado (sáb)=saturday). I apologize for.
-Plot 3: Sub_metering_1 (kitchen), 2 (laundry) and 3 (heater and air-conditioner), by datetime (week day).
-Plot 4: Set of four plots with global active power, global reactive power, submetering 1 to 3, and minute-averaged voltage (in Volt) by datetime (week day).
-
 
