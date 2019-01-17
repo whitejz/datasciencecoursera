@@ -1,4 +1,4 @@
-Electric Power Consumption 
+##Electric Power Consumption 
 
 This is the Course Project 1 of Exploratory Data Analysis Course. This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
@@ -15,7 +15,7 @@ Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It co
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
 
-Loading the data
+##Loading the data
 
 Then loading the dataset into R, please consider the following:
 
@@ -25,7 +25,7 @@ You may find it useful to convert the Date and Time variables to Date/Time class
 Note that in this dataset missing values are coded as ?.
 
 
-Making the plots
+##Making the plots
 
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
@@ -42,7 +42,7 @@ When you are finished with the assignment, push your git repository to GitHub so
 The four plots that you will need to construct are shown below.
 
 
-Plots
+##Plots
 
 Plot 1: Histogram: Frequency of global active power in killowats
 Plot 2: Plot global activer power by week day (plot legend in portuguese: qui (quinta-feira)=thursday, sex (sexta-feira)=friday, sábado (sáb)=saturday). I apologize for.
